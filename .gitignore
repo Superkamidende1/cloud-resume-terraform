@@ -4,4 +4,4 @@
 *.tfplan
 crash.log
 lambda.zip
-.terraform.lock.hcl
+! .terraform.lock.hcl
